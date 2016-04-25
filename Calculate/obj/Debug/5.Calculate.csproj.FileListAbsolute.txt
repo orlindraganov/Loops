@@ -1,0 +1,5 @@
+D:\Orlin\CSharpHomeworks\Loops\Calculate\bin\Debug\Calculate.exe.config
+D:\Orlin\CSharpHomeworks\Loops\Calculate\bin\Debug\Calculate.exe
+D:\Orlin\CSharpHomeworks\Loops\Calculate\bin\Debug\Calculate.pdb
+D:\Orlin\CSharpHomeworks\Loops\Calculate\obj\Debug\Calculate.exe
+D:\Orlin\CSharpHomeworks\Loops\Calculate\obj\Debug\Calculate.pdb

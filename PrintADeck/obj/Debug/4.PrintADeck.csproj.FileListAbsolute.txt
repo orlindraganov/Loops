@@ -1,0 +1,6 @@
+D:\Orlin\CSharpHomeworks\Loops\PrintADeck\bin\Debug\PrintADeck.exe.config
+D:\Orlin\CSharpHomeworks\Loops\PrintADeck\bin\Debug\PrintADeck.exe
+D:\Orlin\CSharpHomeworks\Loops\PrintADeck\bin\Debug\PrintADeck.pdb
+D:\Orlin\CSharpHomeworks\Loops\PrintADeck\obj\Debug\PrintADeck.exe
+D:\Orlin\CSharpHomeworks\Loops\PrintADeck\obj\Debug\PrintADeck.pdb
+D:\Orlin\CSharpHomeworks\Loops\PrintADeck\obj\Debug\4.PrintADeck.csprojResolveAssemblyReference.cache
