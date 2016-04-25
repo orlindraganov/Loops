@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.PrintADeck", "PrintADeck\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.Calculate", "Calculate\5.Calculate.csproj", "{28EA270C-AF7F-43AA-B34D-39B68ADDBC48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.CalculateAgain", "CalculateAgain\6.CalculateAgain.csproj", "{D6D1EA78-71C7-4B68-9105-D471CBB89602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.CalculateThreeFact", "CalculateThreeFact\07.CalculateThreeFact.csproj", "{D5E550A8-A1CE-45AD-AAB8-DB4856BB9C10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{28EA270C-AF7F-43AA-B34D-39B68ADDBC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28EA270C-AF7F-43AA-B34D-39B68ADDBC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28EA270C-AF7F-43AA-B34D-39B68ADDBC48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D1EA78-71C7-4B68-9105-D471CBB89602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D1EA78-71C7-4B68-9105-D471CBB89602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D1EA78-71C7-4B68-9105-D471CBB89602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D1EA78-71C7-4B68-9105-D471CBB89602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E550A8-A1CE-45AD-AAB8-DB4856BB9C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E550A8-A1CE-45AD-AAB8-DB4856BB9C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E550A8-A1CE-45AD-AAB8-DB4856BB9C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E550A8-A1CE-45AD-AAB8-DB4856BB9C10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
