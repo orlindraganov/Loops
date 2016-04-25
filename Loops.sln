@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumbersFrom1ToN", "NumbersFrom1ToN\NumbersFrom1ToN.csproj", "{9CEFCD7F-70EB-4AA8-801A-00CE77B61BFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NotDivisibleNumbers", "NotDivisibleNumbers\NotDivisibleNumbers.csproj", "{DA071E12-AD73-438D-99E9-8B1A4E422793}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CEFCD7F-70EB-4AA8-801A-00CE77B61BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CEFCD7F-70EB-4AA8-801A-00CE77B61BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CEFCD7F-70EB-4AA8-801A-00CE77B61BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CEFCD7F-70EB-4AA8-801A-00CE77B61BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA071E12-AD73-438D-99E9-8B1A4E422793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA071E12-AD73-438D-99E9-8B1A4E422793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA071E12-AD73-438D-99E9-8B1A4E422793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA071E12-AD73-438D-99E9-8B1A4E422793}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

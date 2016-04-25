@@ -1,0 +1,6 @@
+D:\Orlin\CSharpHomeworks\Loops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe.config
+D:\Orlin\CSharpHomeworks\Loops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.exe
+D:\Orlin\CSharpHomeworks\Loops\NumbersFrom1ToN\bin\Debug\NumbersFrom1ToN.pdb
+D:\Orlin\CSharpHomeworks\Loops\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.csprojResolveAssemblyReference.cache
+D:\Orlin\CSharpHomeworks\Loops\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.exe
+D:\Orlin\CSharpHomeworks\Loops\NumbersFrom1ToN\obj\Debug\NumbersFrom1ToN.pdb
