@@ -4,3 +4,6 @@ D:\Orlin\CSharpHomeworks\Loops\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers
 D:\Orlin\CSharpHomeworks\Loops\NotDivisibleNumbers\obj\Debug\2.NotDivisibleNumbers.csprojResolveAssemblyReference.cache
 D:\Orlin\CSharpHomeworks\Loops\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.exe
 D:\Orlin\CSharpHomeworks\Loops\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.pdb
+C:\Orlin\CSharp\Loops\NotDivisibleNumbers\bin\Debug\NotDivisibleNumbers.exe.config
+C:\Orlin\CSharp\Loops\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.exe
+C:\Orlin\CSharp\Loops\NotDivisibleNumbers\obj\Debug\NotDivisibleNumbers.pdb

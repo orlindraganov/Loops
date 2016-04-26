@@ -1,0 +1,6 @@
+C:\Orlin\CSharp\Loops\GCD\bin\Debug\GCD.exe.config
+C:\Orlin\CSharp\Loops\GCD\bin\Debug\GCD.exe
+C:\Orlin\CSharp\Loops\GCD\bin\Debug\GCD.pdb
+C:\Orlin\CSharp\Loops\GCD\obj\Debug\15.GCD.csprojResolveAssemblyReference.cache
+C:\Orlin\CSharp\Loops\GCD\obj\Debug\GCD.exe
+C:\Orlin\CSharp\Loops\GCD\obj\Debug\GCD.pdb

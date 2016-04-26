@@ -1,0 +1,6 @@
+C:\Orlin\CSharp\Loops\ThreeFactorials\bin\Debug\ThreeFactorials.exe.config
+C:\Orlin\CSharp\Loops\ThreeFactorials\bin\Debug\ThreeFactorials.exe
+C:\Orlin\CSharp\Loops\ThreeFactorials\bin\Debug\ThreeFactorials.pdb
+C:\Orlin\CSharp\Loops\ThreeFactorials\obj\Debug\ThreeFactorials.csprojResolveAssemblyReference.cache
+C:\Orlin\CSharp\Loops\ThreeFactorials\obj\Debug\ThreeFactorials.exe
+C:\Orlin\CSharp\Loops\ThreeFactorials\obj\Debug\ThreeFactorials.pdb

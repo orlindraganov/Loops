@@ -1,0 +1,1 @@
+C:\Orlin\CSharp\Loops\HexToDec\bin\Debug\HexToDec.exe.config

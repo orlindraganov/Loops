@@ -1,0 +1,6 @@
+C:\Orlin\CSharp\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe.config
+C:\Orlin\CSharp\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.exe
+C:\Orlin\CSharp\Loops\CatalanNumbers\bin\Debug\CatalanNumbers.pdb
+C:\Orlin\CSharp\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.exe
+C:\Orlin\CSharp\Loops\CatalanNumbers\obj\Debug\CatalanNumbers.pdb
+C:\Orlin\CSharp\Loops\CatalanNumbers\obj\Debug\8.CatalanNumbers.csprojResolveAssemblyReference.cache

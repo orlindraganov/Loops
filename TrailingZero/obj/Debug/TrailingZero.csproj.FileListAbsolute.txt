@@ -1,0 +1,1 @@
+C:\Orlin\CSharp\Loops\TrailingZero\bin\Debug\TrailingZero.exe.config

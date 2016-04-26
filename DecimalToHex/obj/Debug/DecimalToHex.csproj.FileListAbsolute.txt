@@ -1,0 +1,1 @@
+C:\Orlin\CSharp\Loops\DecimalToHex\bin\Debug\DecimalToHex.exe.config

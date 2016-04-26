@@ -1,0 +1,1 @@
+C:\Orlin\CSharp\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config

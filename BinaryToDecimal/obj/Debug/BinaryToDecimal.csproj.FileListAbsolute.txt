@@ -1,0 +1,6 @@
+C:\Orlin\CSharp\Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe.config
+C:\Orlin\CSharp\Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.exe
+C:\Orlin\CSharp\Loops\BinaryToDecimal\bin\Debug\BinaryToDecimal.pdb
+C:\Orlin\CSharp\Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.csprojResolveAssemblyReference.cache
+C:\Orlin\CSharp\Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.exe
+C:\Orlin\CSharp\Loops\BinaryToDecimal\obj\Debug\BinaryToDecimal.pdb

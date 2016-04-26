@@ -1,0 +1,5 @@
+C:\Orlin\CSharp\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe.config
+C:\Orlin\CSharp\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.exe
+C:\Orlin\CSharp\Loops\MatrixOfNumbers\bin\Debug\MatrixOfNumbers.pdb
+C:\Orlin\CSharp\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.exe
+C:\Orlin\CSharp\Loops\MatrixOfNumbers\obj\Debug\MatrixOfNumbers.pdb

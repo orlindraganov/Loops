@@ -1,0 +1,6 @@
+C:\Orlin\CSharp\Loops\DecimalToHex\bin\Debug\DecimalToHex.exe.config
+C:\Orlin\CSharp\Loops\DecimalToHex\bin\Debug\DecimalToHex.exe
+C:\Orlin\CSharp\Loops\DecimalToHex\bin\Debug\DecimalToHex.pdb
+C:\Orlin\CSharp\Loops\DecimalToHex\obj\Debug\13.DecimalToHex.csprojResolveAssemblyReference.cache
+C:\Orlin\CSharp\Loops\DecimalToHex\obj\Debug\DecimalToHex.exe
+C:\Orlin\CSharp\Loops\DecimalToHex\obj\Debug\DecimalToHex.pdb

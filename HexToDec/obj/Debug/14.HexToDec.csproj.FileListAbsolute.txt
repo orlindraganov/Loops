@@ -1,0 +1,5 @@
+C:\Orlin\CSharp\Loops\HexToDec\bin\Debug\HexToDec.exe.config
+C:\Orlin\CSharp\Loops\HexToDec\bin\Debug\HexToDec.exe
+C:\Orlin\CSharp\Loops\HexToDec\bin\Debug\HexToDec.pdb
+C:\Orlin\CSharp\Loops\HexToDec\obj\Debug\HexToDec.exe
+C:\Orlin\CSharp\Loops\HexToDec\obj\Debug\HexToDec.pdb

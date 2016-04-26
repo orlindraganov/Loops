@@ -1,0 +1,5 @@
+C:\Orlin\CSharp\Loops\TrailingZero\bin\Debug\TrailingZero.exe.config
+C:\Orlin\CSharp\Loops\TrailingZero\bin\Debug\TrailingZero.exe
+C:\Orlin\CSharp\Loops\TrailingZero\bin\Debug\TrailingZero.pdb
+C:\Orlin\CSharp\Loops\TrailingZero\obj\Debug\TrailingZero.exe
+C:\Orlin\CSharp\Loops\TrailingZero\obj\Debug\TrailingZero.pdb
